@@ -4,7 +4,8 @@ I modified the HTML  to semantic HTML, added accessibility to website, and made 
 
 ## The Purpose for this project 
 
-to learn refractoring for school project.  If you are interested in learning web developement vist https://techbootcamps.utexas.edu/coding/landing-ftpt/?s=Google-Brand_RFull_&dki=Learn%20Coding&pkw=university%20of%20texas%20austin%20coding%20bootcamp&pcrid=454954276504&pmt=e&utm_source=google&utm_medium=cpc&utm_campaign=GGL%7CUT-AUSTIN%7CSEM%7CCODING%7C-%7CONL%7C_RFull_%7CALL%7CBRD%7CEXACT%7CCore%7CBootcamp&utm_term=university%20of%20texas%20austin%20coding%20bootcamp&s=google&k=university%20of%20texas%20austin%20coding%20bootcamp&utm_adgroupid=107922850204&utm_locationphysicalms=9027786&utm_matchtype=e&utm_network=g&utm_device=c&utm_content=454954276504&utm_placement=&gclid=CjwKCAjw_tWRBhAwEiwALxFPoZJVkzrn7XpsMQBfPw2TyTMq02EZgr5InwchCck6NGOMTjBtM2_HZRoCy0sQAvD_BwE&gclsrc=aw.ds
+the purpose is to refactor the HTML to be semantic HTML and add accessibitlity to the website.  Also to consolidate the CSS
+
 
 ## Status
 
